@@ -1,4 +1,3 @@
-import Header from "../components/header";
 import { WalletConnect } from "@/components/walletConnect";
 export default function Wallet() {
 
